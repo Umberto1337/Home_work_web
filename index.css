@@ -1,0 +1,43 @@
+@font-face {
+    font-family: TeddyBear;
+    src: url(fonts/teddy-bear.ttf);
+}
+
+h1 {
+    color: red;
+    font-family: TeddyBear, sans-serif;
+}
+
+h2{
+    color: #07ba19;
+    font-family: TeddyBear, sans-serif;
+}
+
+a{
+    color: #1753e9;
+}
+
+body{
+    background-color: rgb(197, 247, 247);
+}
+
+img{
+    width: 500px;
+}
+
+.bigtext{
+    font-size: 1.5rem;
+}
+
+ul{
+    list-style-type: square;
+}
+
+a:hover{
+    color:#c6252a;
+}
+
+#wrapper{
+    width: 50%;
+    margin: 0 auto;
+}
